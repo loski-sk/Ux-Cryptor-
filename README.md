@@ -7,3 +7,5 @@ builder locker Ux-Crypt0r
 привіт дорогий мій бро, я зробив биндер WinLocker під іменем Ux-Cryptor.
 
 Hey there, my dear bro—I created a WinLocker binder named Ux-Cryptor.
+
+password = githubproject
